@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Interest_Calculator</string>
+    <string name="title">Interest Calculator</string>
+    <string name="principle_amt_label">Principal Amount</string>
+    <string name="interest_rate_label">Interest Rate</string>
+    <string name="years_label">Years</string>
 </resources>
